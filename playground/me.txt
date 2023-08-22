@@ -1,5 +1,0 @@
-{{https://github.com/yashbhalerao5015}}
-Name: Yash Bhalerao
-Skills: HTML, CSS, JS, Python, SQL, Manual Testing
-Email: yashbhalerao5015@gmail.com
-{{https://github.com/yashbhalerao5015}}
